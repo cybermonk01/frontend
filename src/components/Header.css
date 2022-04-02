@@ -1,0 +1,6 @@
+.custom-background {
+  /* background-color: rgb(40, 40, 43) !important; */
+
+  background-color: #000000;
+  background-image: linear-gradient(to bottom right, #ccffff 20%, #3399ff 100%);
+}
